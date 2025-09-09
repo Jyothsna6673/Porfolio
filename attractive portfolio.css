@@ -1,0 +1,29 @@
+body{background-color:#e7fafc ;padding: 20px;}
+h1{text-align: center;font-size: 40px;transition:all 2s ease}
+p{text-align: center;font-size: 25px;}
+nav{text-align: center;}
+nav a{padding:5px;font-weight:bold ;border-radius:10px ;text-decoration:none ;margin-left:15px ;  }
+nav a:hover{background-color:blueviolet;color:white}
+section{background-color: white;width:800px;margin:30px auto;border-radius: 10px;padding:20px;box-shadow:0 5px 13px black ;}
+hr{margin:30px auto;width:800px;border:2px solid rgb(85, 85, 237)}
+figure{text-align: center;}
+figcaption{font-size:25px ;}
+section ul{text-align: center;}
+figure img{border-radius:50% ;border:3px solid rgb(174, 174, 206)}
+section h2{border-bottom:2px solid blue ;padding-bottom:10px ;}
+article{background-color:#e7fafc;padding:20px;margin:20px;border-left:4px solid blue ;border-radius:10px ;transistion:all 2s ease;}
+h3{font-size:30px ;}
+summary{font-size:25px ;}
+li{background-color:#e7fafc;margin-bottom:10px;padding:10px;font-size:25px;text-align: left;}
+ul,ol{list-style-type:none}
+form{text-align: center;}
+input,textarea{width:100%}
+input{margin:8px ;}
+button{background-color:rgb(158, 109, 243) ;color:white;padding:8px;margin-left:25px;border-radius:6px ;}
+button:hover{background:blueviolet ;color:black}
+a{text-decoration: none;}
+h1:hover{text-decoration: underline;}
+figure img:hover{box-shadow:0px 10px 20px;}
+li:hover{background-color: #ccf8fc;}
+article:hover{transform:translateY(10px) ;}
+h1:hover{transform:scale(1.5) ;}
